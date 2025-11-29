@@ -7,3 +7,4 @@ Cyberpunk Theme Calculator
   <img src="screenshots/screen2.jpg" width="300" />
 </p>
 
+https://github.com/spidroid3810/CalculatorApp/releases/latest/download/Calculator.apk
