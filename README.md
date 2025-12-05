@@ -23,7 +23,7 @@ Cyberpunk Theme Calculator
 
 <li>Adjustable text size</li>
 
-Built in Android Studio (Java)
+<li>Built in Android Studio (Java)</li>
 
 ## 📸 Screenshots
 
