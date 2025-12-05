@@ -9,7 +9,7 @@ Cyberpunk Theme Calculator
 
 ## ✨ Features
 
-## <li> Cyberpunk neon UI</li>
+<li> Cyberpunk neon UI</li>
 
 <li> Dark Mode + Light Mode</li>
 
