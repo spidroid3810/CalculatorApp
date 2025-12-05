@@ -7,7 +7,7 @@ Cyberpunk Theme Calculator
   <img src="https://img.shields.io/badge/Download%20APK-Cyberpunk%20Calculator-blue?style=for-the-badge&logo=android" />
 </a>
 
-✨ Features
+## ✨ Features
 
 <li> Cyberpunk neon UI </li>
 
