@@ -14,5 +14,23 @@ Cyberpunk Theme Calculator
   <img src="screenshots/screen2.jpg" width="300" />
 </p>
 
+✨ Features
+
+Cyberpunk neon UI
+
+Dark Mode + Light Mode
+
+Smooth button animations
+
+Scientific calculator mode
+
+Smart input handling
+
+Auto-save display & history
+
+Adjustable text size
+
+Built in Android Studio (Java)
+
 
 
